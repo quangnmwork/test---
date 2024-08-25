@@ -1,12 +1,9 @@
 {
-  "name": "test---",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "scripts": {
-    "test": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "start": "node app.js"
+  }
 }
